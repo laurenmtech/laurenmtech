@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Lauren!
- - I'm a non-traditional Computer Science student, graduating in May 2026.
+ - I'm a non-traditional Computer Science student, graduating in Spring 2027.
    With a Bachelor's degree in Music and a minor in Psychology, I bring a unique perspective to software engineering
    and problem-solving. 🎶🧠
 -----
