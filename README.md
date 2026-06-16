@@ -1,13 +1,11 @@
 # 👋 Hi, I’m Lauren!
- - I'm a non-traditional Computer Science student, graduating in Spring 2027.
-   With a Bachelor's degree in Music and a minor in Psychology, I bring a unique perspective to software engineering
-   and problem-solving. 🎶🧠
+- Former massage therapist with a Bachelor's in Music and a minor in Psychology — my path into software wasn't a straight line, and I'm better for it. 🎶🧠💆
+- 💻 Currently a Software Engineering / AI Engineering Intern at **Skillify (Kinship)** and so happy to be a part of a team that builds community and creates impactful software solutions. 
+
 -----
 
 # 🌟 About Me
-- 👀 I’m interested in fitness 🏋️‍♀️, fantasy books/games 🧙‍♀️, and building technology that fosters human connection.  
-- 🌱 I’m currently in my third year, learning Operating Systems, Computer Theory, and Programming Languages. 
-- 💞️ I’m looking to collaborate on projects that focus on community building and impactful software solutions.  
+- 👀 I’m interested in fitness 🏋️‍♀️, fantasy books/games 🧙‍♀️, and building technology that fosters human connection. 
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I have a life goal of writing my own fantasy novel
 - 📫 How to reach me laurenmtech@gmail.com
