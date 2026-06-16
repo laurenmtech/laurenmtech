@@ -5,7 +5,8 @@
 -----
 
 # 🌟 About Me
-- 👀 I’m interested in fitness 🏋️‍♀️, fantasy books/games 🧙‍♀️, and building technology that fosters human connection. 
+- 👀 I’m interested in fitness 🏋️‍♀️, fantasy books/games 🧙‍♀️, and building technology that fosters human connection.
+- 🌱 Finishing up my second Bachelor's, this time in Computer Science
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I have a life goal of writing my own fantasy novel
 - 📫 How to reach me laurenmtech@gmail.com
