@@ -1,7 +1,17 @@
-# 👋 Hi, I’m Lauren!
-- Former massage therapist with a Bachelor's in Music and a minor in Psychology — my path into software wasn't a straight line, and I'm better for it. 🎶🧠💆
-- 💻 Currently a Software Engineering / AI Engineering Intern at Skillify and Kinship and so happy to be a part of a team that builds community and creates impactful software solutions. 
+# 👋 Hi, I'm Lauren!
 
+- 💆 I spent six years as a massage therapist, part of that running my own
+  practice — which meant I was also the front desk, the scheduler, and the
+  biller. Now I write software, and clinics and small service businesses are
+  what I want to build it for.
+- 💻 Full-stack with React, TypeScript, Vite, Django and Supabase, deployed on
+  Vercel. Fundamentals in Python, Java and C++.
+- 🚀 Software & AI Engineering intern at **Skillify** and **Kinship**, where I
+  built and shipped features in production alongside a team that genuinely
+  cared about the impact of what it made.
+- 🎶🧠 Bachelor's in Music, minor in Psychology. The path wasn't straight, and
+  it's why I ask how the work actually gets done instead of how it's supposed to.
+- 📫 Open to software engineering roles!
 -----
 
 # 🌟 About Me
